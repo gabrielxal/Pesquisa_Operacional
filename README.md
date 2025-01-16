@@ -6,4 +6,5 @@ Este repositório contem meus códigos realizados durante a disciplina. Nele voc
 - Modelagem de PL
 - Analise de Sensibilidade
 - Preço Sombra
-- Utilização da biblioteca Pulp
+- Problemas de Transporte e Atribuição
+-  Utilização da biblioteca Pulp
